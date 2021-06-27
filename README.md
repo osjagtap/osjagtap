@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Omkar Shivaji Jagtap
 - 👀 I’m interested in Cybersecurity
-- 🌱 I’m currently Pursuing 3 year engineering from Mit Academy of Engineering 
+- 🌱 I’m currently Pursuing 4 year engineering from Mit Academy of Engineering 
 - 💞️ I’m looking to collaborate for Web security, Cyberanalysit.
 - 📫 Contact on : omkar.s.jagtap123@gmail.com
 
